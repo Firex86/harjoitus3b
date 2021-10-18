@@ -15,7 +15,7 @@ div { border-style: dotted;
     height: 100px;
   
 }
-ol { list-style: lower-alpha;
+ol { list-style:lower-alpha;
 }
-ul { list-style: square inside;
+ul { list-style:square;
 }
