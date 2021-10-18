@@ -10,7 +10,7 @@ p  {
    color: rgb(72, 255, 0);
 }
 div { border-style: dotted;
-    border: 2px outset red;
+    border: 2px;
     width: 100px;
     height: 100px;
   
