@@ -17,5 +17,5 @@ div { border-style: dotted;
 }
 ol { list-style: lower-alpha;
 }
-ul { list-style:square;
+ul { list-style: square inside;
 }
